@@ -10,6 +10,10 @@
 
 ## [Присоединиться к борьбе](https://forms.gle/nBBXoQ5WSca9Xe6f9)
 
+
+
+---
+
 ## Контакты
 
 Email: [rucivilwar2022@gmail.com](rucivilwar2022@gmail.com)
