@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Гражданская Война в России 2022
 
-You can use the [editor on GitHub](https://github.com/architect-first/rucivilwar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Кровавый и лживый преступный режим РФ подошел вплотную к концу своего существования.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Мы не позволим превратить Россию в Северную Корею.
 
-### Markdown
+Мы не позволим затыкать нам рот, сковывать нас цепями и совершать военные преступления от нашего имени.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Лица наши скрыты и имя нам легион.
 
-```markdown
-Syntax highlighted code block
+Время пришло.
 
-# Header 1
-## Header 2
-### Header 3
+## [Присоединиться к борьбе](https://forms.gle/nBBXoQ5WSca9Xe6f9)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/architect-first/rucivilwar/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Прислать Bitcoin на благое дело можно по адресу bc1quazfmnhv2k608qr9zkcrvlp56rysue7htfr76d
